@@ -1,7 +1,0 @@
-C:\Users\usuario\OneDrive\Documentos\mi nuevo proyecto commit\mi nuevo proyecto commit\bin\Debug\mi nuevo proyecto commit.exe.config
-C:\Users\usuario\OneDrive\Documentos\mi nuevo proyecto commit\mi nuevo proyecto commit\bin\Debug\mi nuevo proyecto commit.exe
-C:\Users\usuario\OneDrive\Documentos\mi nuevo proyecto commit\mi nuevo proyecto commit\bin\Debug\mi nuevo proyecto commit.pdb
-C:\Users\usuario\OneDrive\Documentos\mi nuevo proyecto commit\mi nuevo proyecto commit\obj\Debug\mi nuevo proyecto commit.csproj.AssemblyReference.cache
-C:\Users\usuario\OneDrive\Documentos\mi nuevo proyecto commit\mi nuevo proyecto commit\obj\Debug\mi nuevo proyecto commit.csproj.CoreCompileInputs.cache
-C:\Users\usuario\OneDrive\Documentos\mi nuevo proyecto commit\mi nuevo proyecto commit\obj\Debug\mi nuevo proyecto commit.exe
-C:\Users\usuario\OneDrive\Documentos\mi nuevo proyecto commit\mi nuevo proyecto commit\obj\Debug\mi nuevo proyecto commit.pdb
